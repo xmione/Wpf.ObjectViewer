@@ -1,0 +1,15 @@
+C:\Projects\Wpf.ObjectViewer\Wpf.ObjectViewer.MouseHook\bin\Debug\Wpf.ObjectViewer.MouseHook.exe.config
+C:\Projects\Wpf.ObjectViewer\Wpf.ObjectViewer.MouseHook\bin\Debug\Wpf.ObjectViewer.MouseHook.exe
+C:\Projects\Wpf.ObjectViewer\Wpf.ObjectViewer.MouseHook\bin\Debug\Wpf.ObjectViewer.MouseHook.pdb
+C:\Projects\Wpf.ObjectViewer\Wpf.ObjectViewer.MouseHook\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Projects\Wpf.ObjectViewer\Wpf.ObjectViewer.MouseHook\obj\Debug\Wpf.ObjectViewer.MouseHook.csprojResolveAssemblyReference.cache
+C:\Projects\Wpf.ObjectViewer\Wpf.ObjectViewer.MouseHook\obj\Debug\MainWindow.g.cs
+C:\Projects\Wpf.ObjectViewer\Wpf.ObjectViewer.MouseHook\obj\Debug\App.g.cs
+C:\Projects\Wpf.ObjectViewer\Wpf.ObjectViewer.MouseHook\obj\Debug\Wpf.ObjectViewer.MouseHook_MarkupCompile.cache
+C:\Projects\Wpf.ObjectViewer\Wpf.ObjectViewer.MouseHook\obj\Debug\Wpf.ObjectViewer.MouseHook_MarkupCompile.lref
+C:\Projects\Wpf.ObjectViewer\Wpf.ObjectViewer.MouseHook\obj\Debug\MainWindow.baml
+C:\Projects\Wpf.ObjectViewer\Wpf.ObjectViewer.MouseHook\obj\Debug\Wpf.ObjectViewer.MouseHook.g.resources
+C:\Projects\Wpf.ObjectViewer\Wpf.ObjectViewer.MouseHook\obj\Debug\Wpf.ObjectViewer.MouseHook.Properties.Resources.resources
+C:\Projects\Wpf.ObjectViewer\Wpf.ObjectViewer.MouseHook\obj\Debug\Wpf.ObjectViewer.MouseHook.csproj.GenerateResource.Cache
+C:\Projects\Wpf.ObjectViewer\Wpf.ObjectViewer.MouseHook\obj\Debug\Wpf.ObjectViewer.MouseHook.exe
+C:\Projects\Wpf.ObjectViewer\Wpf.ObjectViewer.MouseHook\obj\Debug\Wpf.ObjectViewer.MouseHook.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf.ObjectViewer.MouseHook", "Wpf.ObjectViewer.MouseHook\Wpf.ObjectViewer.MouseHook.csproj", "{FB8FBC5C-FC65-4671-BBED-BECA92048194}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf.ObjectViewer.UIAutomation", "Wpf.ObjectViewer.UIAutomation\Wpf.ObjectViewer.UIAutomation.csproj", "{10128A6E-BB2B-4C8D-A545-5E81D5365F6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB8FBC5C-FC65-4671-BBED-BECA92048194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8FBC5C-FC65-4671-BBED-BECA92048194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8FBC5C-FC65-4671-BBED-BECA92048194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8FBC5C-FC65-4671-BBED-BECA92048194}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10128A6E-BB2B-4C8D-A545-5E81D5365F6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10128A6E-BB2B-4C8D-A545-5E81D5365F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10128A6E-BB2B-4C8D-A545-5E81D5365F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10128A6E-BB2B-4C8D-A545-5E81D5365F6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
